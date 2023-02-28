@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Whatsapp',
+          title: const Text('Whatsapp UI',
               style: TextStyle(fontSize: 23,fontFamily: 'noto'),
           ),
           bottom: const TabBar(
